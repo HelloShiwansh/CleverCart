@@ -2,16 +2,16 @@
 
 ## Problem Statement
 
-SmartCart is a growing e-commerce platform serving customers across multiple countries.  
+CleverCart is a growing e-commerce platform serving customers across multiple countries.  
 The company has collected extensive customer data consisting of **2240 customer records and 22 attributes**, including customer demographics, purchase behaviour, website activity, and response indicators.
 
-Currently, SmartCart uses **generic marketing and engagement strategies** for all customers without clearly understanding the differences in customer behaviour patterns. This leads to:
+Currently, CleverCart uses **generic marketing and engagement strategies** for all customers without clearly understanding the differences in customer behaviour patterns. This leads to:
 
 - Inefficient marketing campaigns  
 - Missed opportunities to retain high-value customers  
 - Delayed identification of customers who are likely to churn  
 
-To address these challenges, SmartCart aims to build an **intelligent customer segmentation system** using **unsupervised machine learning techniques**.
+To address these challenges, CleverCart aims to build an **intelligent customer segmentation system** using **unsupervised machine learning techniques**.
 
 The system will analyze historical customer transaction data and **group customers into meaningful clusters** based on:
 

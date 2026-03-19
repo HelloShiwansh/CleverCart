@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project implements a customer segmentation system for **SmartCart**, an international e-commerce platform. By analyzing customer data, we identify distinct customer groups to enable targeted marketing strategies and improve customer retention.
+This project implements a customer segmentation system for **CleverCart**, an international e-commerce platform. By analyzing customer data, we identify distinct customer groups to enable targeted marketing strategies and improve customer retention.
 
 ## Problem Statement
 
-SmartCart serves customers across multiple countries but currently uses generic marketing approaches without understanding customer behavior patterns. This leads to:
+CleverCart serves customers across multiple countries but currently uses generic marketing approaches without understanding customer behavior patterns. This leads to:
 - Inefficient marketing campaigns
 - Missed opportunities for high-value customer retention
 - Delayed churn identification

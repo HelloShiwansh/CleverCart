@@ -1,6 +1,6 @@
 # Dataset Description
 
-The dataset used in this project contains customer information collected by **SmartCart**, an international e-commerce platform.  
+The dataset used in this project contains customer information collected by **CleverCart**, an international e-commerce platform.  
 Each row represents a **single customer** and includes information about demographics, purchase behaviour, engagement patterns, and customer feedback.
 
 The dataset contains **2240 customer records and 22 attributes** that help analyze customer purchasing behaviour and engagement levels. The data is used to perform **customer segmentation using clustering algorithms**. :contentReference[oaicite:1]{index=1}
@@ -20,7 +20,7 @@ The dataset contains **2240 customer records and 22 attributes** that help analy
 | Income | Yearly household income |
 | Kidhome | Number of small children in the household |
 | Teenhome | Number of teenagers in the household |
-| Dt_Customer | Date when the customer enrolled with SmartCart |
+| Dt_Customer | Date when the customer enrolled with CleverCart |
 
 ---
 
